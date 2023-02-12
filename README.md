@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, nice to meet you 👋
 
-<!--
-**louisDBZ/louisDBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ currently working at VMware
 
-Here are some ideas to get you started:
+✔️ Challenge 90 Days of DevOps finished in January 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 My Technical confort zone (01/02/2023):
+
+Cloud: Docker Kubernetes VMware Azure
+Code: Python
+Web: HTML CSS Javascript
+Database:PostGreSQL
+CLI: PowerShell/PowerCLI, Linux
+
+👉 Other technologies that I used or that I'm learning:
+
+Cloud: AWS Terraform Ansible
+Code: Java,C and C++
+
