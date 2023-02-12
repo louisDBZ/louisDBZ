@@ -2,7 +2,7 @@
 
 🖥️ currently working at VMware
 
-✔️ [Challenge 90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2023.md) finished in January 2023
+✔️ [Challenge 90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) finished in January 2023
 
 👉 My Technical confort zone (01/02/2023):
 
