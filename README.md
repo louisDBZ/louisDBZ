@@ -6,14 +6,14 @@
 
 👉 My Technical confort zone (01/02/2023):
 
-Cloud: Docker Kubernetes VMware Azure
-Code: Python
-Web: HTML CSS Javascript
-Database:PostGreSQL
-CLI: PowerShell/PowerCLI, Linux
+- Cloud: Docker Kubernetes VMware Azure
+- Code: Python
+- Web: HTML CSS Javascript
+- Database:PostGreSQL
+- CLI: PowerShell/PowerCLI, Linux
 
 👉 Other technologies that I used or that I'm learning:
 
-Cloud: AWS Terraform Ansible
-Code: Java,C and C++
+- Cloud: AWS Terraform Ansible
+- Code: Java,C and C++
 
