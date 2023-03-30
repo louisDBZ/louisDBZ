@@ -17,5 +17,5 @@
 👉 Other technologies that I used or that I'm learning:
 
 - Cloud: AWS Terraform Ansible
-- Code: Java,C and C++
+- Code: Java,Go, C and C++
 
