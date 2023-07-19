@@ -19,3 +19,11 @@
 - Cloud: AWS Terraform Ansible
 - Code: Java,Go, C and C++
 
+📚 Books I read:
+
+- Intelligence artificielle - Stuart Russel et Peter Norvig
+- Iot and Edge computing for Architects- Perrry Lea - Packt edition
+- Understanding Docker in a visual way - Aurélie Vache
+- Fundamentals of Software Architecture - Mark Richards and Neal Ford - O'reilly edition
+- Software Architecture: The Hard parts - Mark Richards and Neal Ford - O'reilly edition
+- Understanding Kubernetes in a visual way - Aurélie Vache
