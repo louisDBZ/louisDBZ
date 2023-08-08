@@ -22,8 +22,8 @@
 📚 Books I read:
 
 - Intelligence artificielle - Stuart Russel et Peter Norvig
-  
-- Iot and Edge computing for Architects- Perrry Lea - Packt edition
+
+- Iot and Edge computing for Architects- Perrry Lea - Packt edition
 
 - Understanding Docker in a visual way - Aurélie Vache
   
@@ -32,8 +32,3 @@
 - Software Architecture: The Hard parts - Mark Richards and Neal Ford - O'reilly edition
   
 - Understanding Kubernetes in a visual way - Aurélie Vache
-
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-
-
