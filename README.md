@@ -19,14 +19,14 @@
 - Cloud: AWS Terraform Ansible
 - Code: Java,Go, C and C++
 
-📚 Books I read:
+📚 Books I've read:
 
 
 Data and IA:
 
-- Intelligence artificielle - Stuart Russel et Peter Norvig
+- Intelligence artificielle - Stuart Russel et Peter Norvig - Pearson edition
 
-- Python for Data Analysis - Wes McKinney
+- Python for Data Analysis - Wes McKinney - O'reilly edition
 
 Architecture:
 
