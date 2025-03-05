@@ -1,6 +1,8 @@
 ### Hello, nice to meet you 👋
 
-🖥️ currently working at VMware
+[page updated on 05/03/2025]
+
+🖥️ currently working at VMware by Broadcom
 
 ✔️ [Challenge 90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps) finished in January 2023
 
@@ -8,21 +10,19 @@
 
 https://leetcode.com/u/user4578HQ/
 
-👉 My Technical confort zone (02/03/2024):
+### 👉 My Technical confort zone & technologies that I used or that I'm learning :
 
-- Cloud: Docker Kubernetes VMware Azure
-- Code: Python
+- Cloud: Docker Kubernetes VMware Azure AWS
+- Code: Python Java,Go, C and C++
 - Web: HTML CSS Javascript
-- Database:PostGreSQL
+- Database: PostGreSQL
 - CLI: PowerShell/PowerCLI, Linux
+- Automation:  Terraform Ansible
 
-👉 Other technologies that I used or that I'm learning:
 
-- Cloud: AWS Terraform Ansible
-- Code: Java,Go, C and C++
+### 📚 Books I've read:
 
-📚 Books I've read:
-
+![img.png](./images-myprofile/Présentation145.jpg)
 
 Data and IA:
 
@@ -43,3 +43,7 @@ Containers and Orchestrators:
 - Understanding Docker in a visual way - Aurélie Vache
   
 - Understanding Kubernetes in a visual way - Aurélie Vache
+
+### But wait 🛑 , I also read businness related books:
+
+https://medium.com/@louis.debouzy7/my-personal-mba-reading-list-475e385e0501
