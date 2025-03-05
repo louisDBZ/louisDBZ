@@ -22,7 +22,7 @@ https://leetcode.com/u/user4578HQ/
 
 ### 📚 Books I've read:
 
-![img.png](./images-myprofile/Présentation145.jpg)
+![img.png](./Présentation145.jpg)
 
 Data and IA:
 
